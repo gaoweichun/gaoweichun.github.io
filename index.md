@@ -1,10 +1,6 @@
 
 
-## Welcome to 高维春 GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gaoweichun/gaoweichun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  人类的情爱总是让人失望，还好宇宙自由它的浪漫。
 
 ### Markdown
 
